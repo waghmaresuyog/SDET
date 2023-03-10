@@ -1,6 +1,6 @@
 package com.qa.demo;
 
-public class FirstDemo {
+public class FirstDemo1 {
 
 	public static void main(String[] args) {
 		
